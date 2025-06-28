@@ -1,0 +1,233 @@
+[
+    {
+        "id": 22,
+        "title": "synthese examen ",
+        "file_name": "68162b2422996_1746283300.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:41:40",
+        "course_id": 6
+    },
+    {
+        "id": 21,
+        "title": "factory",
+        "file_name": "68162b006e406_1746283264.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:41:04",
+        "course_id": 11
+    },
+    {
+        "id": 20,
+        "title": "composite",
+        "file_name": "68162abaa94cf_1746283194.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:39:54",
+        "course_id": 11
+    },
+    {
+        "id": 19,
+        "title": "adapter",
+        "file_name": "68162a9bd8174_1746283163.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:39:23",
+        "course_id": 11
+    },
+    {
+        "id": 18,
+        "title": "fiche threads ",
+        "file_name": "68162a7f67b9a_1746283135.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:38:55",
+        "course_id": 7
+    },
+    {
+        "id": 17,
+        "title": "chapitre 5 ",
+        "file_name": "68162a50ca6f0_1746283088.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:38:08",
+        "course_id": 4
+    },
+    {
+        "id": 16,
+        "title": "chapitre 4",
+        "file_name": "68162a1c15362_1746283036.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:37:16",
+        "course_id": 4
+    },
+    {
+        "id": 15,
+        "title": "synthese complete ",
+        "file_name": "681629f250cfc_1746282994.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:36:34",
+        "course_id": 10
+    },
+    {
+        "id": 14,
+        "title": "chapitre2",
+        "file_name": "681629b4881cb_1746282932.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:35:32",
+        "course_id": 13
+    },
+    {
+        "id": 13,
+        "title": "threads",
+        "file_name": "6816299af01ba_1746282906.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:35:07",
+        "course_id": 7
+    },
+    {
+        "id": 12,
+        "title": "exceptions",
+        "file_name": "681629801a053_1746282880.pdf",
+        "author": "",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:34:40",
+        "course_id": 4
+    },
+    {
+        "id": 11,
+        "title": "builder",
+        "file_name": "6816296600058_1746282854.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:34:14",
+        "course_id": 11
+    },
+    {
+        "id": 10,
+        "title": "intro",
+        "file_name": "6816292bb3271_1746282795.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:33:15",
+        "course_id": 11
+    },
+    {
+        "id": 9,
+        "title": "astuce stat ",
+        "file_name": "6816290f4b589_1746282767.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "laboratoire",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:32:47",
+        "course_id": 13
+    },
+    {
+        "id": 8,
+        "title": "chapitre6",
+        "file_name": "681628f2f3707_1746282738.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:32:19",
+        "course_id": 4
+    },
+    {
+        "id": 7,
+        "title": "chapitre 7",
+        "file_name": "681628ca5ce9e_1746282698.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:31:38",
+        "course_id": 4
+    },
+    {
+        "id": 6,
+        "title": "synthese examen thread fiche",
+        "file_name": "6816288f71e86_1746282639.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:30:39",
+        "course_id": 7
+    },
+    {
+        "id": 5,
+        "title": "chapitre 3",
+        "file_name": "68162858098c1_1746282584.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:29:44",
+        "course_id": 2
+    },
+    {
+        "id": 4,
+        "title": "chapitre 3",
+        "file_name": "68162836c2c45_1746282550.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "synthese",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:29:10",
+        "course_id": 4
+    },
+    {
+        "id": 3,
+        "title": "cahier d'exercices",
+        "file_name": "68162806e6569_1746282502.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "exercices",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:28:22",
+        "course_id": 13
+    },
+    {
+        "id": 2,
+        "title": "labo stat synthese",
+        "file_name": "68162567575d0_1746281831.pdf",
+        "author": "moi",
+        "tags": "",
+        "category": "laboratoire",
+        "description": "",
+        "uploaded_at": "2025-05-03 14:17:11",
+        "course_id": 13
+    }
+]

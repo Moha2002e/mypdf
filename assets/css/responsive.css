@@ -1,0 +1,206 @@
+/* Styles responsives pour MyPDF */
+
+/* Styles généraux pour tous les appareils */
+.pdf-container {
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+/* Tablettes et petits écrans (< 992px) */
+@media (max-width: 991.98px) {
+    .pdf-card .card-title {
+        font-size: 1.1rem;
+    }
+    
+    .pdf-card .card-text {
+        font-size: 0.9rem;
+    }
+    
+    .navbar-brand .brand-text {
+        font-size: 1.2rem;
+    }
+    
+    .btn-group {
+        flex-wrap: wrap;
+    }
+    
+    #pdf-controls .row {
+        margin-bottom: 0.5rem;
+    }
+    
+    .pdf-container {
+        max-height: 70vh !important;
+    }
+    
+    #pdfCanvas {
+        max-width: 100%;
+        height: auto !important;
+    }
+    
+    /* Ajustements pour les boutons de navigation */
+    #prevPage, #nextPage {
+        padding: 0.375rem 0.5rem;
+    }
+}
+
+/* Téléphones (< 768px) */
+@media (max-width: 767.98px) {
+    h1 {
+        font-size: 1.8rem;
+    }
+    
+    h2 {
+        font-size: 1.5rem;
+    }
+    
+    .navbar .form-control {
+        max-width: 150px;
+    }
+    
+    .navbar-brand .brand-text {
+        font-size: 1rem;
+    }
+    
+    .pdf-card .card-img-top {
+        height: 150px;
+    }
+    
+    .pdf-container {
+        max-height: 60vh !important;
+    }
+    
+    /* Ajustements pour les contrôles PDF */
+    #pdf-controls .btn-group, 
+    #pdf-controls .input-group {
+        width: 100%;
+        margin-bottom: 0.5rem;
+    }
+    
+    #pdf-controls .btn {
+        padding: 0.25rem 0.5rem;
+        font-size: 0.875rem;
+    }
+    
+    /* Ajustements pour les boutons de zoom */
+    #zoomLevel {
+        width: auto !important;
+        min-width: 70px;
+    }
+    
+    /* Ajustements pour la recherche */
+    #searchPdf {
+        width: 100%;
+    }
+    
+    /* Ajustements pour le mode immersif */
+    #immersive-toolbar .btn {
+        padding: 0.25rem 0.5rem;
+        font-size: 0.875rem;
+    }
+}
+
+/* Petits téléphones (< 576px) */
+@media (max-width: 575.98px) {
+    .container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    .card-body {
+        padding: 0.75rem;
+    }
+    
+    .pdf-card .card-img-top {
+        height: 120px;
+    }
+    
+    .pdf-container {
+        max-height: 50vh !important;
+    }
+    
+    /* Simplifier les contrôles sur très petits écrans */
+    #pdf-controls .btn span {
+        display: none;
+    }
+    
+    #pdf-controls .btn i {
+        margin: 0;
+    }
+    
+    /* Ajuster la taille des entrées */
+    #pageNumber {
+        width: 40px !important;
+    }
+    
+    /* Simplifier la barre de navigation */
+    .navbar-brand .brand-icon {
+        font-size: 1.5rem;
+    }
+    
+    .navbar-brand .brand-text {
+        font-size: 0.9rem;
+    }
+    
+    /* Optimiser l'affichage du canvas */
+    #pdfCanvas {
+        max-width: 100%;
+        height: auto !important;
+    }
+    
+    /* Ajustements pour les boutons d'action */
+    .action-buttons .btn {
+        padding: 0.25rem;
+        font-size: 0.75rem;
+    }
+}
+
+/* Styles spécifiques pour la visionneuse PDF */
+@media (max-width: 991.98px) {
+    /* Assurer que le canvas s'adapte correctement */
+    #pdfCanvas {
+        max-width: 100%;
+        height: auto !important;
+    }
+    
+    /* Ajuster la hauteur du conteneur PDF */
+    .pdf-container {
+        overflow-x: auto;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+    
+    /* Améliorer l'interaction tactile */
+    .btn, 
+    .form-control,
+    .form-select {
+        min-height: 38px;
+    }
+    
+    /* Espacement pour les contrôles */
+    #pdf-controls .row > div {
+        margin-bottom: 0.5rem;
+    }
+}
+
+/* Styles pour améliorer l'expérience tactile */
+@media (hover: none) and (pointer: coarse) {
+    /* Augmenter la taille des zones cliquables */
+    .btn, 
+    .nav-link,
+    .dropdown-item {
+        padding: 0.5rem 0.75rem;
+    }
+    
+    /* Augmenter l'espacement entre les éléments interactifs */
+    .btn-group > .btn,
+    .input-group > .btn {
+        margin: 0 1px;
+    }
+    
+    /* Améliorer la visibilité du focus */
+    .btn:focus,
+    .form-control:focus,
+    .form-select:focus {
+        box-shadow: 0 0 0 3px rgba(67, 97, 238, 0.5);
+    }
+}
